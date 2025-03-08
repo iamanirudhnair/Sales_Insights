@@ -3,6 +3,8 @@
 ## Overview
 The **Sales Insight Project** was designed to provide key business insights for a consumer goods company, with a focus on AtliQ hardware sales trends. The project utilized **SQL** and **Power BI** to build an interactive dashboard, transforming raw sales data into meaningful visualizations that help drive business decisions. 
 
+![image_alt](https://github.com/iamanirudhnair/Sales_Insights/blob/main/Sales_Dashboard.png?raw=true)
+
 ### Key Project Steps
 1. **Understanding the Problem Statement**: We started by understanding the business need for insights related to sales trends in the consumer goods segment, specifically AtliQ hardware.
 2. **Project Planning**: After gathering initial requirements, we outlined the necessary steps, tools, and methodologies for tackling the project.
